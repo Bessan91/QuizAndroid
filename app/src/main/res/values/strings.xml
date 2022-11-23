@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Quiz1</string>
+    <string-array name="Year">
+        <item> daily</item>
+        <item>monthly</item>
+        <item>weakley</item>
+    </string-array>
+</resources>
